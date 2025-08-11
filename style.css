@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  text-align: center;
+}
+header {
+  background: #333;
+  color: white;
+  padding: 20px;
+}
+section img {
+  width: 300px;
+  margin: 10px;
+}
